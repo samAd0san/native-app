@@ -4,6 +4,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
+- Create the project
+```bash
+npx create-expo-app@latest <project_name>
+```
+
 1. Install dependencies
 
    ```bash
@@ -48,3 +53,9 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+### To connect to andriod device
+- Install expo **Expo Go** and then after ```npx expo start``` the QR code will appear in the console, scan that using the Expo Go app.
+
+- For emulator you need to install **Andriod Studio** <br>
+https://docs.expo.dev/get-started/set-up-your-environment/?platform=android&device=simulated
