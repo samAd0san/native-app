@@ -10,7 +10,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text className="font-bold text-4xl text-green-600">بسم الله!</Text>
+      <Text className="font-rukik-extrabold text-4xl text-primary-300">Index.tsx</Text>
       <Link href="/sign-in"> Sign In </Link>
       <Link href="/profile"> Profile </Link>
 
